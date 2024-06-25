@@ -1,0 +1,24 @@
+
+            a{
+                color:black;
+                text-decoration: none;
+            }
+            h1{
+                text-align: center;
+                border-bottom:2px solid gray;
+                margin:50px;
+                padding:10px;
+            }
+            ul{
+            border-right:2px solid gray;
+            width:100px;
+            padding:80px;
+        }
+        h2, p{
+            text-align: center;
+        }
+        #grid{
+            display:grid;
+            grid-template-columns: 230px 1fr;
+            padding:50px;
+        }
